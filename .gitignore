@@ -1,0 +1,8 @@
+.venv/
+.idea/
+downloads/
+Music/
+Music69s.bot/
+__pycache__/
+*.zip
+*.lnk
